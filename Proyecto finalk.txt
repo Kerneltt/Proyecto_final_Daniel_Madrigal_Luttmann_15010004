@@ -1,0 +1,26 @@
+Proyecto final
+Conste de todas las faces del ciclo de vida del proyecto
+
+consiste en una tienda online de articulos de ferreteria
+(no existe un punto de venta especifico)
+centrado en la parte online de la tienda
+
+tener:
+Diseño de hardware
+analisis de modelo de negocio
+procesos de la tienda
+diseñar la base de datos 
+arquitectura del web server
+
+Analisis:
+DERCAS
+Diseño:
+DFD
+DSI
+UML
+Desarrollo:
+Script de base de datos
+Repositorio de documentos generados
+Script de pruevas de caja negra y caja blanca
+mostrar interfaz de la tienda online
+
